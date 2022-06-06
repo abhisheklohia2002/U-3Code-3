@@ -1,0 +1,38 @@
+#navbar{
+ 
+ background-color: bisque;
+ font-size: 1vw;
+ display: flex;
+ 
+
+ 
+}
+a{
+    margin-left: auto;
+    margin-top: 1vw;
+}
+
+form{
+    text-align: center;
+    background-color: aquamarine;
+    width: 28vw;
+    margin: auto;
+}
+#name,#email,#address,#amount{
+    height: 2rem;
+    width: 20rem;
+    
+    margin-bottom: 2vw;
+    
+}
+#submit{
+    height: 2rem;
+    width: 10rem;
+}
+#amount{
+    margin-bottom: 2vw;
+}
+
+#wallet_balance{
+margin: auto;
+}
